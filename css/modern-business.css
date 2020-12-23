@@ -5,7 +5,11 @@
  */
 body {
   padding-top: 56px;
+  
 }
+  .bg-chess {
+    background-color: #004d40;
+  }
 
 .carousel-item {
   height: 65vh;
