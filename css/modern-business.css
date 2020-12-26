@@ -36,6 +36,7 @@ a {
     /* Add shadows to create the "card" effect */
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
+    border: 0px;
   }
 
   .card-header {
@@ -102,4 +103,16 @@ a {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   transform: rotateY(180deg);
+}
+
+h1{
+  color: #007FAD;
+}
+
+h2{
+  color:#F48F00;
+}
+
+h4{
+  color:#C94A30;
 }
