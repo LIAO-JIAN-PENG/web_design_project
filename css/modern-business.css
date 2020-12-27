@@ -44,6 +44,11 @@ a {
     border-radius: 10px !important;
     margin-bottom: 2px;
   }
+  .ellipsis {
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
 
   .card-p{
     color: rgb(245, 245, 245);
@@ -59,6 +64,18 @@ a {
     padding: 2px 16px;
   }
 
+  .price{
+    color: #C94A30;
+    text-align: center;
+  }
+
+  .product-img{
+    height: 600px;
+  }
+
+  .product-more{
+    height: 200px;
+  }
 /* flip card */
   .flip-card {
   background-color: transparent;
